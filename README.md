@@ -15,9 +15,23 @@ Device automatically shuts down fog machine heater, and pump if Temperatures go 
 
 ## WIP
 
-- Telnet Support
-- MQTT Support
-- Web Control of Duration, Delay Variables 
+- Web Control of Duration, Delay Variables
+- cleaning function with second pump and tubing
+
+- more in parity to "Wled"
+ - Access Point and station mode - automatic failsafe AP
+ - 5 user presets to save and load different fog dispersal modes, supports cycling through them.
+ - Full OTA software updatability (HTTP + ArduinoOTA), password protectable
+ - app for Android and iOS
+ - JSON and HTTP request APIs
+ - MQTT
+ - E1.31
+ - UDP realtime
+ - Alexa voice control
+ - Sync fog of multiple fog machines (UDP notifier)
+ - Infrared remotes (24-key RGB, receiver required)
+ - Simple timers/schedules (time from NTP, timezones/DST supported)
+
 
 
 ## Web Interface
