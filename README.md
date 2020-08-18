@@ -18,7 +18,7 @@ Device automatically shuts down fog machine heater, and pump if Temperatures go 
 - Web Control of Duration, Delay Variables
 - cleaning function with second pump and tubing
 
-- more in parity to "Wled"
+- more in parity to "Wled" https://github.com/Aircoookie/WLED
  - Access Point and station mode - automatic failsafe AP
  - 5 user presets to save and load different fog dispersal modes, supports cycling through them.
  - Full OTA software updatability (HTTP + ArduinoOTA), password protectable
